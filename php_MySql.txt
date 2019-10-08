@@ -1,0 +1,24 @@
+https://www.youtube.com/watch?v=8QndJWGsz4s
+1 - sql extention files have SQL codes
+2 - ajax(is a complete comunication technics between server and client) requests are GET and POST
+3 - axios package (Axios is a lightweight HTTP client based on the $http service within Angular.js v1.x and similar to the Fetch API. Axios is promise-based and thus we can take advantage of async and await for more readable asynchronous code)
+4 - php server base folder = xampp/htdocs and we can make folders inside of it (also axios folder)
+5 - config.php is a file and we can use for our all projects vue or React or angular etc..
+6 - die = exit with any message
+7 - index.html is standart home page name for html format, (also index.php or index.sometechnology)
+8 - placeholder is a definition or describetion of input text 
+9 - v-model is two-way binding (simultaneously sets value between data and html element without using .lazy)
+10 - in Json file keys start with UPPERcase letter so username=Username ...
+11 - v-for is used for loop by rows in an array
+12 - ajaxfile.php is for Request and Response.
+13 - if it is set add to SQL string if not use 1 to add 
+14 - $ means let or var or const
+15 - mysql i query = can be CRUD.
+16 - mysql i fetch assoc Returns an associative array that corresponds to the fetched row or NULL if there are no more rows.)
+17 - echo means print as json encoding 
+18 - the most common use of activating Vue is in Development system  not serve system
+19 - .then is OK but .catch is Fail
+20 - we can adapt All projects within same way 
+21 - VUE.JS system is a Single File Components = https://vuejs.org/v2/guide/single-file-components.html
+Example of ReAct Native + MySql + php + short +good = https://www.youtube.com/watch?v=rT8ZV7W3Ybc
+hello
